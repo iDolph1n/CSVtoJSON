@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "firstName": "Vitaly",
+    "lastName": "Mikhailov",
+    "country": "RU",
+    "age": 31
+  },
+  {
+    "id": 2,
+    "firstName": "Ivan",
+    "lastName": "Petrov",
+    "country": "RU",
+    "age": 20
+  },
+  {
+    "id": 3,
+    "firstName": "Gleb",
+    "lastName": "Kodeykin",
+    "country": "UK",
+    "age": 28
+  },
+  {
+    "id": 4,
+    "firstName": "Anastasia",
+    "lastName": "Ivanova",
+    "country": "FR",
+    "age": 28
+  }
+]
