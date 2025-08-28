@@ -5,6 +5,8 @@ build/
 !**/src/test/**/build/
 .gradle/
 build/
+Thumbs.db
+*.log
 
 ### IntelliJ IDEA ###
 .idea/modules.xml
